@@ -1,0 +1,15 @@
+/Users/coppe/StackApp/bin/Debug/net6.0/StackApp
+/Users/coppe/StackApp/bin/Debug/net6.0/StackApp.deps.json
+/Users/coppe/StackApp/bin/Debug/net6.0/StackApp.runtimeconfig.json
+/Users/coppe/StackApp/bin/Debug/net6.0/StackApp.dll
+/Users/coppe/StackApp/bin/Debug/net6.0/StackApp.pdb
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.csproj.AssemblyReference.cache
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.AssemblyInfoInputs.cache
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.AssemblyInfo.cs
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.csproj.CoreCompileInputs.cache
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.dll
+/Users/coppe/StackApp/obj/Debug/net6.0/refint/StackApp.dll
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.pdb
+/Users/coppe/StackApp/obj/Debug/net6.0/StackApp.genruntimeconfig.cache
+/Users/coppe/StackApp/obj/Debug/net6.0/ref/StackApp.dll
